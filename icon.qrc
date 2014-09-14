@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="recover">recover.png</file>
+        <file alias="about">about.png</file>
+        <file alias="quit">quit.png</file>
+    </qresource>
+</RCC>
